@@ -19,3 +19,5 @@ python main.py -g 0 --resume ckpt/res12_mini.pth.tar --dataset miniimagenet
 --dataset指定使用的数据集
 
 注意数据集要放到/data路径下
+
+![Example Image](repo.png)
